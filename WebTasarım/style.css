@@ -1,0 +1,23 @@
+.sablon{width: 760px ; height: 900px ; margin: 30px auto ;}
+
+.gorsel{width: 760px ; height:341px ; float: left ; background: url(Images/webtasar%C4%B1m.jpeg) no-repeat ; border-radius: 10px 10px 10px 10px}
+
+.menu{width: 580px ; height: 47px ; float: left ; margin: 10px 0 0 0 ; background: orange ; border-radius: 10px 10px 10px 10px}
+
+.social{width: 180px ; height: 40px ; float: left ; margin: 15 0 0 0 ; display: inline-flex}
+
+.sayfaIcerigi{width: 450px ; height: 600px ; float: left ; margin: 10px 50px 10px 0 ; font-size: 20}
+
+.haberler{width: 260 ; height: 150px ; float: left ; margin: 20px 0 10px 0 ; background: orange ; border-radius: 10px 10px 10px 10px ; color: #fff}
+
+.linkler{width: 260 ; height: 150px ; float: left ; margin: 20px 0 10px 0 ; background: orange ; border-radius: 10px 10px 10px 10px ; color: #fff}
+
+.tasarimlar{width: 260px ; height: 150px ; float: left ; margin: 20px 0 10px 0 ; background: orange ; border-radius: 10px 10px 10px 10px ; color: #fff}
+
+.altSutun{width: 760px ; height: 40px ; float: left ; margin: 10px 0 0 0 ; background: orange ; border-radius: 10px 10px 10px 10px ; text-align: center ; padding: 7.5px 0 0 0 ;color: #fff ; font: bold 20px Times New Roman}
+
+
+.menu ul{margin: 0 ; padding: 0 ; list-style: none}
+.menu ul li{float: left}
+.menu ul li a{display: block ; width: 145px ; height: 47px ; text-decoration: none ; text-align: center ; font:Italic bold 20px Times New Roman ; color: #fff ; padding: 10px 0 0 0}
+.menu ul li a:hover{background: #916004}
